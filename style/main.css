@@ -38,6 +38,11 @@ body {
 }
 
 .three {
+  position: relative;
+  top: 10vh;
+  z-index: 1;
+}
+.three.img {
   display: inline-block;
   height: auto;
   max-width: 100%;
