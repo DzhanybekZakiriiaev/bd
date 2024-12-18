@@ -39,7 +39,7 @@ body {
 
 .three {
   display: inline-block;
-  height: 350px;
+  height: auto;
   max-width: 100%;
 }
 
