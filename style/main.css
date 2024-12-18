@@ -38,7 +38,9 @@ body {
 }
 
 .three {
-  font-size: 3rem;
+  display: inline-block;
+  height: 350px;
+  max-width: 100%;
 }
 
 .four .text-box {
